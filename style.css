@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
+    flex-direction: column;
 }
 
 #container {
@@ -26,10 +27,10 @@ body {
     padding: 0;
     margin: 0;
 }
-.paintedDivs:hover {
+/* .paintedDivs:hover {
     background-color: yellow;
-}
+} */
 
-.appear {
+/* .appear {
     background-color: blue;
-}
+} */
